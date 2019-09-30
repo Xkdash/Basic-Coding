@@ -12,7 +12,7 @@ def _output(A):
         print(A[i])
 def _main():
     array_in=_input()
-    _mergeSort(array_in)
+    #_mergeSort(array_in)
     _output(array_in)
 if __name__ == '__main__':
     _main()
